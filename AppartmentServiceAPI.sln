@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppartmentServiceAPI", "AppartmentServiceAPI\AppartmentServiceAPI.csproj", "{42ED59F7-2C3D-4423-A3B3-AE13E5D30CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ED59F7-2C3D-4423-A3B3-AE13E5D30CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ED59F7-2C3D-4423-A3B3-AE13E5D30CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ED59F7-2C3D-4423-A3B3-AE13E5D30CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ED59F7-2C3D-4423-A3B3-AE13E5D30CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8248A65D-033F-41C7-92A9-C4C38F5149CD}
+	EndGlobalSection
+EndGlobal
